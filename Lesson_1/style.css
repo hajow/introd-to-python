@@ -1,0 +1,47 @@
+#p3{
+border:2px solid blue;
+padding:20px;
+margin:10px;
+text-align:right;
+color:white;
+font-family: monospace;
+font-size:15px;
+}
+ body{
+                background-color:pink;
+                }
+             p#p1{
+                color:red;
+                font-size:20px;
+                border:2px  dotted black;
+                padding:30px;
+                margin:40px;
+                background-color:white;}
+
+
+
+             p#p2{ color:red;
+                    font-size:20px;
+                    border:2px solid blue;
+                    padding:40px;
+                    margin:40px;
+
+            }
+             #p4{
+             color:white;background-color:blue;font-size:30px;
+             padding:30px;margin:20px;border:10px solid white;}
+
+             #p5{
+             color:white;background-color:red;font-size:30px;
+             padding:30px;margin:20px;border:1px solid black ;}
+            .countries{
+            border:2px solid blue;
+            margin:20px;
+            padding:10px;
+            color:white;
+            text-align:center;
+            background-color:red;
+           }
+           #myimg{
+           height:300px;
+           width:250px}
